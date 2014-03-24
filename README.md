@@ -10,6 +10,7 @@ that has no other way of including subtitles or has incorrect subtitles.  This w
 as the character encoding is UTF-8.
 
 Instructions:
+- Download the runnable jar, SubtleSubtitles.jar and run using Java Runtime Environment (1.7 or higher).
 - Download the .SRT file for the movie or TV show.  My favorite site for subtitles is http://www.opensubtitles.org/
 - Prepare your movie by opening the application that will run it with the movie ready to play.
 - Click "Open a file" to load the subtitles.
