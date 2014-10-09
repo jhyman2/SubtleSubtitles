@@ -28,9 +28,20 @@ Please send feedback to jhyman2@umbc.edu.  Feel free to fork and improve.  I'd l
 Thanks for looking!
 
 
+Upon opening SubtleSubtitles.jar
 ![SSS1](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture.JPG)
+
+Click File>Open to open subtitle file
 ![SSS2](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture2.JPG)
+
+After the subtitles and movies start.  Hit WIN+H to hide/show everything except the subtitles.
 ![SSS3](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture3.JPG)
+
+Click File>Font to change text styles.
 ![SSS4](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture4.JPG)
+
+Help menu.
 ![SSS5](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture5.JPG)
+
+Works seemlessly.
 ![SSS6](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture6.JPG)
