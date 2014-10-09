@@ -28,9 +28,9 @@ Please send feedback to jhyman2@umbc.edu.  Feel free to fork and improve.  I'd l
 Thanks for looking!
 
 
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture.JPG)
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture2.JPG)
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture3.JPG)
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture4.JPG)
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture5.JPG)
-![alt tag](http://tutorrow.com/subtle_subtitles/Capture6.JPG)
+![SSS1](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture.JPG)
+![SSS2](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture2.JPG)
+![SSS3](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture3.JPG)
+![SSS4](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture4.JPG)
+![SSS5](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture5.JPG)
+![SSS6](https://raw.github.com/jhyman2/SubtleSubtitles/master/screenshots/Capture6.JPG)
